@@ -118,8 +118,8 @@ USE_L10N = True
 USE_TZ = False
 #For sending email
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'assncess@gmail.com'
-EMAIL_HOST_PASSWORD = 'rtygvbngr1298'
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
